@@ -1,0 +1,6 @@
+name: my-javascript-queries
+version: 1.0.0
+library: false
+dependencies:
+  codeql/javascript-all: "*"
+  codeql/javascript-queries: "*"

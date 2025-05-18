@@ -1,0 +1,12 @@
+{
+  "name": "copilot-ghas-demo",
+  "version": "1.0.0",
+  "description": "This repository demonstrates the synergy between GitHub Copilot for enhanced developer productivity and GitHub Advanced Security (GHAS) for robust code security in an AI-assisted development workflow.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
