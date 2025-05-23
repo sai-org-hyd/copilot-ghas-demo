@@ -32,7 +32,7 @@ function runUserScript(script) {
 
 // 5. Leaking Sensitive Info
 function printTokens() {
-  const token = "secret-token-12345";
+  const token = "token";
   console.log("DEBUG LOG: Auth token is", token);  // Never log secrets
 }
 
